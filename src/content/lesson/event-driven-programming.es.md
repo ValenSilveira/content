@@ -29,7 +29,7 @@ A veces es el usuario del sitio web, a veces es el navegador, a veces es otra ap
 
 Hay docenas de eventos que se activan cada minuto, pero no tienes que hacer nada al respecto (no si no quieres). Están disponibles para ti según el tipo de aplicación que desees hacer.
 
-## Tipos de Eventos
+## Tipos de Eventos:
 
 Estos son algunos de los tipos de eventos que se activan constantemente (y que puedes escuchar):
 
